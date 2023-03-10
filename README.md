@@ -3,9 +3,25 @@
 <img src="https://raw.githubusercontent.com/johnbohnam3/johnbohnam3/main/images/ElevateAI-Logo-Black-on-White.png">
 </p>
 
+<div align="center"><a name="menu"></a>
+  <h4>
+    <a href="https://www.elevateai.com">
+      Website
+    </a>
+    <span> | </span>
+    <a href="https://docs.elevateai.com">
+      Documentation
+    </a>
+    <span> | </span>
+    <a href="https://www.elevateai.com/blogs">
+      Blog
+    </a>
+  </h4>
+</div>
+
 ## // Hi there 👋
 
-<p>ElevateAI, a subdivision of <a href="https://www.nice.com">NICE</a>, allows contact centers to understand conversations and provide a new standard for CX to customers. Leveraging 20 years of cutting-edge AI, ASR, and NLP, ElevateAI provides an enterprise-grade API ready for use today.</p>
+<p>ElevateAI, a service by <a href="https://www.nice.com">NICE</a>, enables contact centers to understand conversations and provide a new standard for CX to customers. Leveraging 20 years of cutting-edge AI, ASR, and NLP, ElevateAI provides an enterprise-grade API ready for use today.</p>
 
 ## // Why use ElevateAI's API?
 + Transcribes audio files
@@ -40,6 +56,9 @@
 ## // [Documentation](https://docs.elevateai.com)
 
 ## // [Blog](https://www.elevateai.com/blog/)
+
+## // License
+TBD
 
 [Sign up](https://app.elevateai.com/Auth/SignUp) for an API key.
 
