@@ -19,7 +19,7 @@
   </h4>
 </div>
 
-## // Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=%2F%2F+Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p>ElevateAI, a service by <a href="https://www.nice.com">NICE</a>, enables contact centers to understand conversations and provide a new standard for CX to customers. Leveraging 20 years of cutting-edge AI, ASR, and NLP, ElevateAI provides an enterprise-grade API ready for use today.</p>
 
