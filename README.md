@@ -34,7 +34,7 @@ ElevateAI's API offers a host of benefits, including:
 + Scalability: Scale massively to handle large volumes of data.
 + AI CX Models: ElevateAI is powered by award-winning AI CX models that were developed over two decades of experience.
 + Multi-Behavior Scoring: The models score agent interactions across a range of behaviors, such as acknowledging loyalty, actively listening, being empathetic, building rapport, effectively questioning, promoting self-service, setting expectations, and more.
-+ Library Support: ElevateAI provides libraries to interact with the API. Currently, [.NET](https://github.com/NICEElevateAI/ElevateAI.SDK), [Python](https://github.com/NICEElevateAI/ElevateAIPythonSDK), and [Java](https://github.com/NICEElevateAI/ElevateAIJavaSDK) are supported.
++ Library Support: ElevateAI provides libraries to interact with the API. Currently, [.NET](https://github.com/NICEElevateAI/ElevateAI.SDK), [Python](https://github.com/NICEElevateAI/ElevateAIPythonSDK), and [Java](https://github.com/NICEElevateAI/ElevateAIJavaSDK) are supported. The API returns JSON responses.
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/johnbohnam3/johnbohnam3/main/images/elevate-data-flow.png" />
